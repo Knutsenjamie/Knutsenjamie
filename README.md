@@ -2,7 +2,7 @@
 
 [My Business, Vitally Veg LLC](https://vitallyveg.com)
 
-### I'm a Vegan Chef, Business Owner, Developer, Code Enthusiast, and Entrepreneur!!
+### I'm a Chef, Business Owner, Developer, Code Enthusiast, and Entrepreneur!!
 
 - 🌱 I’m currently learning: <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 - 👯 I’m looking to collaborate with other content creators
